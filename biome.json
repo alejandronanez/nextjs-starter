@@ -18,7 +18,8 @@
         "noChildrenProp": "error",
         "useExhaustiveDependencies": "warn",
         "useHookAtTopLevel": "error",
-        "useJsxKeyInIterable": "error"
+        "useJsxKeyInIterable": "error",
+        "noUnusedVariables": "error"
       },
       "security": { "noDangerouslySetInnerHtml": "error" },
       "suspicious": { "noCommentText": "error", "noDuplicateJsxProps": "error" }
